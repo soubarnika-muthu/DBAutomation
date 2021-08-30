@@ -7,6 +7,10 @@ namespace DB_Automation
         static void Main(string[] args)
         {
             Console.WriteLine("Spotify DB automation");
+            DBOperations db = new DBOperations();
+           // db.Connect();
+            
+            Console.ReadLine();
         }
     }
 }

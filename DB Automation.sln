@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB Automation", "DB Automation\DB Automation.csproj", "{89EFE749-41FB-4FF5-A38C-FDE22B72E09C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DB Automation", "DB Automation\DB Automation.csproj", "{89EFE749-41FB-4FF5-A38C-FDE22B72E09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBAutomationTesting", "DBAutomationTesting\DBAutomationTesting.csproj", "{1071B0E1-380B-4C80-95E6-1EF92291CE0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{89EFE749-41FB-4FF5-A38C-FDE22B72E09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89EFE749-41FB-4FF5-A38C-FDE22B72E09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89EFE749-41FB-4FF5-A38C-FDE22B72E09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1071B0E1-380B-4C80-95E6-1EF92291CE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1071B0E1-380B-4C80-95E6-1EF92291CE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1071B0E1-380B-4C80-95E6-1EF92291CE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1071B0E1-380B-4C80-95E6-1EF92291CE0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
