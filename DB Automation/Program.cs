@@ -6,7 +6,7 @@ namespace DB_Automation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Spotify DB automation");
         }
     }
 }
